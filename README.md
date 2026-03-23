@@ -149,7 +149,8 @@ function Calculator() {
         <button onClick={() => handleClick("/")}>/</button>
       </div>
       <footer>
-        DIVYA M   212223040043
+        PRIYADHARSHINI 212222100039
+
       </footer>
     </div>
   );
